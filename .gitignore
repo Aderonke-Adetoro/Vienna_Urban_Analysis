@@ -1,0 +1,23 @@
+# --- IGNORE HEAVY DATA ---
+ExportedData/
+Dataset/
+ViennaChangeDetection/  # The ArcGIS Project folder (contains bulky locks/index files)
+.ipynb_checkpoints/
+Analysis/
+__pycache__/
+Vienna.ipynb
+
+# --- IGNORE FILE TYPES ---
+*.tif
+*.jp2
+*.gdb
+*.pkl
+*.zip
+*.lock
+
+# --- WHITELIST (Force Git to see these) ---
+!requirements.txt
+!README.md
+!Script/
+!Change_Detected.jpegViennaChangeDetection/
+ViennaChangeDetection
