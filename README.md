@@ -17,7 +17,7 @@ The workflow implements a full geospatial pipeline in Python, moving from raw `.
 * **Phenological Impact:** A significant "Agriculture to Terrain" transition was observed, attributed to the seasonal difference between the 2016 epoch (September/Leaf-on) and the 2025 epoch (November/Post-harvest).
 
 ## 🖼️ Visual Results
-![Change Map Results](Chnage_Detected.jpeg)
+![Change Map Results](Change_Detected.jpg)
 
 ## 🛠️ Methodology & Tech Stack
 
